@@ -38,12 +38,12 @@ Interactive Systems: Enhance human-computer interaction by recognizing emotions 
 Requirements
 Python libraries: librosa, soundfile, numpy, scikit-learn, sounddevice, wavio.
 An audio dataset with labeled emotions.
+
 A microphone for real-time recording.
 
 
-
-
-## Deployment
+Codespaces
+https://upgraded-fishstick-jvvg9qrrgxv2pw9j.github.dev/
 
 To deploy this project run
 
